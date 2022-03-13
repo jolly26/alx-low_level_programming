@@ -3,8 +3,8 @@
 #include <string.h>
 int main()
         {
-		char str[60];
-		strcpy(str,"Programming is like building a multilingual puzzle")
-	        puts(str);
-		return(0);
+	char str[60];
+	strcpy(str,"Programming is like building a multilingual puzzle\n")
+	puts(str);
+        return(0);
         }
