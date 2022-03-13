@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - print a string using a function printf
- * void - returns void
+ * main(void) - returns void
  *
  * Description: using the main function
  * prints "with proper grammar, but the outcome is a piece of art,"
