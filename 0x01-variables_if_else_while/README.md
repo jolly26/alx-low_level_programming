@@ -6,3 +6,4 @@ a program that prints the alphabet in lowercase, and then in uppercase, followed
 5. Numbers
 6. Numberz
 4. When I was having that alphabet soup, I never thought that it would pay off
+7. Smile in the mirror
