@@ -8,3 +8,4 @@ a program that prints the alphabet in lowercase, and then in uppercase, followed
 4. When I was having that alphabet soup, I never thought that it would pay off
 7. Smile in the mirror
 8. Hexadecimal
+9. Patience, persistence and perspiration make an unbeatable combination for success
