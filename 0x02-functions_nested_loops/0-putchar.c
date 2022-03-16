@@ -1,7 +1,19 @@
-include "main.h"
-void print_alphabet(void)
+#include "main.h"
+/**
+ * main - entry point
+ *
+ * void :no argument 
+ * return: 0
+ * */
+int main(void)
 {
-	for (a='a'; a<='z',a++)
-		_putchar(a);
+char ch ="_putchar" ;
+int a;
+for (a=0; a<8; a++)
+{
+	_putchar(ch) ;
+
 }
-_putchar('\n')
+_putchar('\');
+return(0);
+
