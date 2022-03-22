@@ -1,1 +1,1 @@
-a script that runs a C file through the preprocessor and save the result into another file
+#General\nWhat are pointers and how to use them\nWhat are arrays and how to use them\nWhat are the differences between pointers and arrays
